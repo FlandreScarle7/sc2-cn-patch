@@ -1,0 +1,10 @@
+LIBRARY kernel32.dll
+EXPORTS
+GetModuleHandleW
+LoadLibraryW
+GetProcAddress
+VirtualProtect
+FlushInstructionCache
+GetCurrentProcess
+OutputDebugStringA
+GetSystemDirectoryW
